@@ -37,7 +37,7 @@ map.html
             <font color="blue"><b>THIRUVARUR</b></font>
         </h1>
         <h3 align="center">
-        <font color="green"><b>VENKATESAN R</b></font>
+        <font color="green"><b>HEMANTH YADAV K</b></font>
         </h3>
         <CENTER>
             <img src="map.png" usemap="#MyCity" height="610" width="1450">
