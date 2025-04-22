@@ -116,12 +116,11 @@ thiru.html
 ```
 
 ## OUTPUT
-
-![alt text](<venkat/Screenshot (16).png>)
-![alt text](<venkat/Screenshot (17).png>)
-![alt text](<venkat/Screenshot (18).png>)
-![alt text](<venkat/Screenshot (19).png>)
-![alt text](<venkat/Screenshot (20).png>)
-
+![alt text](hemanth/mapapp/static/map.jpg)
+![alt text](1.jpg)
+![alt text](2.jpg)
+![alt text](3.jpg)
+![alt text](4.jpg)
+![alt text](5.jpg)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
